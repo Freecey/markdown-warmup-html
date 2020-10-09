@@ -20,6 +20,7 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
+    width: 250px;
   }
 .bgsite { 
     background: url(sky-690293.jpg) no-repeat center center fixed; 
